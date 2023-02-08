@@ -1,3 +1,3 @@
-## Welcome to the Kendamanomics Admin Panel
+## ASAP start
 
-This is the place where you will find the documentation related to this particular project
+Just change the env to your supabase anon key and supabase url
